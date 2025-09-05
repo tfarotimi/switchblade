@@ -8,8 +8,11 @@ by **Tope Farotimi**
 ---
 
 ## 🚀 What is Switchblade?
+
 Do you find yourself switching between multiple windows while writing a thesis/research paper or coding a machine learning pipeline? 
+
 Is the constant reaching for the mouse, looking for the window you want is taxing your ADHD brain and killing your focus?
+
 Do you keep copying and pasting back and forth from MS Word/Powerpoint/VS Code to Chat GPT? 
 
 If so, this just might be the app for you. 
