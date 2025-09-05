@@ -4,7 +4,7 @@ by **Tope Farotimi**
 
 📅 Latest Update: **September 2025**
 
-                
+
 ---
 
 ## 🚀 What is Switchblade?
@@ -91,12 +91,15 @@ Done — Switchblade will now launch every time you log in.
 ---
 
 ## 📦 Project Structure
-├─ switchblade.ahk # Source script (edit this for new hotkeys)
-├─ Switchblade.exe # Compiled executable
-├─ WinClip.ahk # Copy Paste Utility (must download if you're planning to run the .ahk file)
-├─ WinClip.ahk # Copy Paste Utility (must download if you're planning to run the .ahk file )
-├─ Switchblade.exe # Compiled executable
-├─ README.md # This file
-└─ .gitignore # Ignore compiled files, logs, shortcuts
+switchblade/
+├─ switchblade.ahk     # Source script (edit this for new hotkeys)
+├─ Switchblade.exe     # Compiled executable (recommend for casual users)
+├─ WinClip.ahk         # Clipboard utility wrapper (required if running the .ahk source)
+├─ WinClipAPI.ahk      # Low-level clipboard API (required if running the .ahk source)
+├─ README.md           # This file
+└─ .gitignore          # Ignore compiled files, logs, shortcuts
 
-May your fingers fly true and swift! 
+
+---
+
+May your fingers fly true and swift! 🗡️⌨️
