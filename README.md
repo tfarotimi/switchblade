@@ -11,7 +11,7 @@ by **Tope Farotimi**
 
 Do you find yourself switching between multiple windows while writing a thesis/research paper or coding a machine learning pipeline? 
 
-Is the constant reaching for the mouse, looking for the window you want is taxing your ADHD brain and killing your focus?
+Is the constant reaching for the mouse, looking for the window you want taxing your ADHD brain and killing your concentration?
 
 Do you keep copying and pasting back and forth from MS Word/Powerpoint/VS Code to Chat GPT? 
 
