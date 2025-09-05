@@ -104,7 +104,7 @@ switchblade/
 ├─ README.md           # This file
 └─ .gitignore          # Ignore compiled files, logs, shortcuts
 
-```text
+```
 ---
 
 May your fingers fly true and swift! 🗡️⌨️
