@@ -91,9 +91,11 @@ Done — Switchblade will now launch every time you log in.
 ---
 
 ## 📦 Project Structure
+
+```text
 switchblade/
 ├─ switchblade.ahk     # Source script (edit this for new hotkeys)
-├─ Switchblade.exe     # Compiled executable (recommend for casual users)
+├─ Switchblade.exe     # Compiled executable (recommended for casual users)
 ├─ WinClip.ahk         # Clipboard utility wrapper (required if running the .ahk source)
 ├─ WinClipAPI.ahk      # Low-level clipboard API (required if running the .ahk source)
 ├─ README.md           # This file
